@@ -1,4 +1,3 @@
-# Nico_Pill
 Nico_Pill
 server.cfg add
 start Nico_Pill
